@@ -24,7 +24,7 @@
 
 **Second of all... WHY???**
 
-**To actually answer the question to any programmer, that, for some reason only God knows, is actually serious about this, though I am praying for your sanity, I provided a [wiki](link/to/wiki) to help you create your first Brainfuck mod.**
+**To actually answer the question to any programmer, that, for some reason only God knows, is actually serious about this, though I am praying for your sanity, I provided a [wiki](https://github.com/TheDreamer123/OLABML/wiki) to help you create your first Brainfuck mod.**
 
 ## Finally...
 **To anyone else, I truly am sorry if you have to install this...**
